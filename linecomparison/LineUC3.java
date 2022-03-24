@@ -2,6 +2,7 @@ package linecomparison;
 
 import java.util.Scanner;
 
+
 public class LineUC3 {
 
 	public static void main(String[] args) {
