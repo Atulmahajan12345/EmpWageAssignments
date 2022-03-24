@@ -10,6 +10,7 @@ public class LineUC3 {
         double x1,x2,y1,y2,x3,x4,y3,y4;
         int line1,line2;
         
+        
         //For first line
         System.out.println("Enter x1 & y1 values of First point");
         x1 = sc.nextDouble();
